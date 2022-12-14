@@ -230,4 +230,4 @@ To do so, click on the Green tick to cancel the field change.
 
 ![Screenshot](../img/feat-item-26.png)
 
-All changes are logged into the Item history.
+
